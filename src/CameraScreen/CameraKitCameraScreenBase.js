@@ -334,7 +334,8 @@ const styles = StyleSheet.create(_.merge(styleObject, {
     bottom: 0,
     right: 0,
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',
+    color: 'white'
   },
   bottomButton: {
     flex: 1,
